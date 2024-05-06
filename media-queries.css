@@ -1,0 +1,30 @@
+@media screen and (max-width: 991px){
+    .nav-toggle{
+        display: block;
+        left: 85%;
+        position: absolute;
+        
+
+    }
+    .nav-link{
+        display: none;
+    }
+    .how-to-use-step{
+        width: 50%;
+    }
+    
+}
+@media(min-aspect-ratio:16/9){
+    .back-video{
+        width: 100%;
+        height:auto;
+    }
+}
+@media(max-aspect-ratio:16/9){
+    .back-video{
+        width:auto ;
+        height: 100% ;
+
+    }
+    
+}
