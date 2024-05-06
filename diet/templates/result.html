@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diet Recommendations</title>
+</head>
+<body>
+    <h1>Diet Recommendations</h1>
+
+    <div class="container">
+        <h2>Breakfast</h2>
+        <ul>
+            {% for item in breakfast_names %}
+                <li>{{ item }}</li>
+            {% endfor %}
+        </ul>
+
+        <h2>Lunch</h2>
+        <ul>
+            {% for item in lunch_names %}
+                <li>{{ item }}</li>
+            {% endfor %}
+        </ul>
+
+        <h2>Brunch</h2>
+        <ul>
+            {% for item in brunch_names %}
+                <li>{{ item }}</li>
+            {% endfor %}
+        </ul>
+
+        <h2>Dinner</h2>
+        <ul>
+            {% for item in dinner_names %}
+                <li>{{ item }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>
