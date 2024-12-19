@@ -18,8 +18,8 @@ Features
 
 Acknowledgements
 
-1. Diet and Workout Recommendation System by 611noorsaeed for the inspiration behind the diet recommendation feature.
+Diet and Workout Recommendation System by 611noorsaeed for the inspiration behind the diet recommendation feature.
 
-2. Edamam Recipe API for providing an extensive recipe database.
+Edamam Recipe API for providing an extensive recipe database.
 
-3. Foodie Calorie Finder by timbuktocoder for nutritional calculation references.
+Foodie Calorie Finder by timbuktocoder for nutritional calculation references.
